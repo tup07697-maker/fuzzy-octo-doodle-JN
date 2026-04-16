@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+JOEWIN NIJU
 
 #### Your section leader's name
 
-TODO
+NATHAN
 
 #### Project title
 
-TODO
+GALAXY DEFENDER
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have coded majority of it. Trying to tweak it a little bit now.
 
 #### What have you not done for your project yet?
 
-TODO
+Add a starting page. 
 
 #### What problems, if any, have you encountered?
 
-TODO
+Indentations and syntax errors. 
