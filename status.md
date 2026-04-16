@@ -18,12 +18,32 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I have coded majority of it. Trying to tweak it a little bit now.
+So far I have:
+    Created the players (moves left and right)
+    Shoots bullets
+    created enemy (goes in both x and y axis)
+    created explosion after enemy is killed.
+    created score board
+    created game over and restart sequence
+    created the adaptive difficulty
+
+    Added background music
+    explosion sound
+    bullet shooting sound (laser sound)
+    Created a score board
+
 
 #### What have you not done for your project yet?
 
-Add a starting page. 
+I want to add health to the player. Like 3 lives
+
+I am also thinking about adding a boss level, especially after 15 points earned. 
+
+Create an intro page
+
+
 
 #### What problems, if any, have you encountered?
 
-Indentations and syntax errors. 
+Creating the Restart 
+Creating the explosion function and making it work when the enemy is destroyed.
