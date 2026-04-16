@@ -19,6 +19,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 #### What have you done for your project so far?
 
 So far I have:
+    
     Created the players (moves left and right)
     Shoots bullets
     created enemy (goes in both x and y axis)
